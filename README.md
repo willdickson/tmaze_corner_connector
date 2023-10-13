@@ -1,5 +1,5 @@
 # tmaze_corner_connector
-Hardware design files for t-maze wall corner connector.  
+FreeCAD design files for t-maze wall corner connector.  
 
 # License: 
 Creative Commons Attribution 4.0 International CC BY 4.0
